@@ -4,7 +4,7 @@ import json
 
 #got to website https://openweathermap.org/ create an account and find out the API key.
 
-API_keys = "0ceaede22a520a76993abc4cee754ac1"
+API_keys = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Hiding my key here. Apply your own API key here.
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
